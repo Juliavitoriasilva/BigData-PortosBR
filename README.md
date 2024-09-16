@@ -6,11 +6,21 @@
 
 Este projeto tem como objetivo desenvolver uma base de dados robusta e abrangente (Big Data) sobre atracações e movimentações de carga nos portos marítimos brasileiros. A iniciativa visa centralizar, consolidar e estruturar dados essenciais que permitem a análise de indicadores críticos
 
+# Métodologia de Ação 
+
+No desenvolvimento do projeto de planejamento portuário, adotaremos a metodologia Scrum como framework para gestão ágil e eficiente do projeto. O Scrum é particularmente adequado para projetos que exigem flexibilidade e adaptação contínua, facilitando a entrega incremental e a colaboração contínua entre as partes interessadas.
+
+O projeto será dividido em quatro sprints, cada um com uma duração específica e metas claramente definidas.
+
 # Objetivo 
-O objetivo deste projeto é desenvolver uma grande base de dados(Big Data) com informações detalhadas sobre atracações e movimentações de carga nos portos marítimos brasileiros. A proposta visa centralizar, consolidar e estruturar dados que permitirão a análise de indicadores críticos, como a produtividade da operação portuária, a eficiência dos terminais e o tempo de duração das operações. O projeto busca fornecer subsídios para otimizar o planejamento logístico portuário, melhorar a tomada de decisões estratégicas e elevar o nível de competitividade dos portos brasileiros, a partir da aplicação de técnicas de engenharia de dados e logística portuária.
+O objetivo deste projeto é desenvolver uma grande base de dados(Big Data) com informações detalhadas sobre atracações e movimentações de carga nos portos marítimos brasileiros. A proposta visa centralizar, consolidar e estruturar dados que permitirão a análise de indicadores críticos, como a produtividade da operação portuária, a eficiência dos terminais e o tempo de duração das operações. 
+
+O projeto busca fornecer subsídios para otimizar o planejamento logístico portuário, melhorar a tomada de decisões estratégicas e elevar o nível de competitividade dos portos brasileiros, a partir da aplicação de técnicas de engenharia de dados e logística portuária.
 
 # Justificativa do projeto
-O setor portuário desempenha um papel essencial na economia brasileira, sendo responsável pela movimentação de uma grande parcela das exportações e importações do país. No entanto, a falta de dados integrados e organizados de maneira eficiente sobre as operações portuárias representa um entrave para o aprimoramento da gestão logística e para a maximização da eficiência operacional. Ao criar uma base de dados centralizada e de grande escala, será possível realizar análises sobre indicadores-chave, como a produtividade média das operações por atracação e terminal, além de identificar gargalos operacionais.
+O setor portuário desempenha um papel essencial na economia brasileira, sendo responsável pela movimentação de uma grande parcela das exportações e importações do país. 
+
+No entanto, a falta de dados integrados e organizados de maneira eficiente sobre as operações portuárias representa um entrave para o aprimoramento da gestão logística e para a maximização da eficiência operacional. Ao criar uma base de dados centralizada e de grande escala, será possível realizar análises sobre indicadores-chave, como a produtividade média das operações por atracação e terminal, além de identificar gargalos operacionais.
 
 
 # Resultado esperado
