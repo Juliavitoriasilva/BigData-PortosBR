@@ -77,6 +77,6 @@ Esses resultados, no longo prazo, podem promover maior eficiência no comércio 
 - [ ] Revisão e validação final dos resultados do modelo DEA e integração com relatórios e dashboards;
 - [ ] Criação de documentação de usuário e realização de treinamentos.
 
-# Resulatdos
+# Resultados
 
 
