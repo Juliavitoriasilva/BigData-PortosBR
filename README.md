@@ -8,12 +8,13 @@ Este projeto tem como objetivo desenvolver uma base de dados robusta e abrangent
 
 # Índice
 
-* [Métodologia de Ação](#Métodologia-de-Ação)
-* [Objetivo](#Objetivo)
-* [Justificativa do projeto](#Justificativa-do-projeto)
-* [Resultado esperado](#Resultado-esperado) 
-* [Backlog do Produto-Sprints](#Backlogdo-Produto-Sprints)
-* [Resultados](#Resultados)
+* [Métodologia de Ação](#metodologia-de-a%C3%A7%C3%A3o)
+* [Objetivo](#objetivo)
+* [Justificativa do projeto](#justificativa-do-projeto)
+* [Resultado esperado](#resultado-esperado)
+* [Backlog do Produto-Sprints](#backlog-do-produto-sprints)
+* [Resultados](#resultados)
+
 
 
 
@@ -76,6 +77,6 @@ Esses resultados, no longo prazo, podem promover maior eficiência no comércio 
 - [ ] Revisão e validação final dos resultados do modelo DEA e integração com relatórios e dashboards;
 - [ ] Criação de documentação de usuário e realização de treinamentos.
 
-#Resulatdos
+# Resulatdos
 
 
